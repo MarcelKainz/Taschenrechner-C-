@@ -1,0 +1,4 @@
+C:\Users\kainz\RiderProjects\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kainz\RiderProjects\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\kainz\RiderProjects\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.AssemblyInfo.cs
+C:\Users\kainz\RiderProjects\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.csproj.CoreCompileInputs.cache
